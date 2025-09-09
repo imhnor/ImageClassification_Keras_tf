@@ -3,8 +3,6 @@
  This repository contains **three deep learning image classification projects** built using **TensorFlow** and **Keras**.  
 Each project includes dataset loading, preprocessing, model building, training, evaluation, and prediction examples.
 
-
-
 ##  Projects Included
 
 1. **CIFAR-10 Image Classification**
